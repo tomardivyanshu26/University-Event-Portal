@@ -67,4 +67,4 @@ The Student Event Management System simplifies event operations by providing a c
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/GAURAV7820/DBMS-PROJECT.git
+git clone https://github.com/tomardivyanshu26/University-Event-Portal
